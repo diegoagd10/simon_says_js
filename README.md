@@ -1,8 +1,8 @@
 # Simon says
 
-This is the application result from the course of `Javascript fundamentals`. This course was taken at [Platzi](https://platzi.com/).
+An implementation of the `Simon Says` game that was created as a practice for the `Javascript fundamentals` course from [Platzi](https://wplatzi.com).
 
-The html, css and the initial javascript code was provided by [Platzi](https://wplatzi.com).
+Html, css and the initial javascript code was provided by [Platzi](https://wplatzi.com).
 
 Live:
 [Simon Says](https://diegoagd10.github.io/simon_says_js/)
