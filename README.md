@@ -1,13 +1,13 @@
 # Simon says
 
-This is a practice for the "Javascript fundamentals" course from [Platzi](https://platzi.com/).
+This is the application result from the course of `Javascript fundamentals`. This course was taken at [Platzi](https://platzi.com/).
 
-The html, css and the initial javascript code was provided by [Platzi](https://www.platzi.com).
+The html, css and the initial javascript code was provided by [Platzi](https://wplatzi.com).
 
 Live:
 [Simon Says](https://diegoagd10.github.io/simon_says_js/)
 
-Code changes:
+Customer code changes:
 
 * Pop up window asking the difficulty mode.
 * Disabled user mouse events before finishing the sequence.
